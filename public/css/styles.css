@@ -1,0 +1,48 @@
+html,
+body,
+#root,
+#__app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  font-family: 'AirbnbCerealBook', sans-serif;
+  font-size: 16px;
+  background-color: #000000;
+  color: white;
+  opacity: 0.8;
+}
+* {
+  font-family: 'Airbnb Cereal App Book', sans-serif;
+}
+
+input[type='text'] {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  color: #333;
+  padding: 8px 52px 8px 10px;
+  transition: all 200ms ease;
+}
+
+.zone-container {
+  box-sizing: border-box;
+  border: 4px solid white;
+  margin: 0.5rem auto;
+  width: 1000px;
+  height: 700px;
+  font-size: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.row {
+  display: 'flex';
+  line-height: 32px;
+  height: 32px;
+}
