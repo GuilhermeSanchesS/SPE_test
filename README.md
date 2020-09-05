@@ -1,4 +1,4 @@
-# SPE - Construtor de interface de game RPG
+# SPE - Construtor de interface de game RPG 🎮
 
 
 
